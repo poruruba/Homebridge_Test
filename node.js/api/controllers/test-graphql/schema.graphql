@@ -1,0 +1,3 @@
+type Query {
+  hello(message: String, param: Int): String
+}

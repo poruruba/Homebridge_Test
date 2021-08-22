@@ -1,0 +1,6 @@
+[
+	{
+		"topic": "test-topic",
+		"handler": "handler"
+	}
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "topic": "light/setHSV"
+  },
+  {
+    "topic": "light/setOn"
+  },
+  {
+    "topic": "light/startup"
+  },
+  {
+    "topic": "switch/setOn"
+  },
+  {
+    "topic": "switch/startup"
+  },
+  {
+    "topic": "key/setLockTargetState"
+  },
+  {
+    "topic": "key/startup"
+  }
+]
